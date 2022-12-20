@@ -1,0 +1,8 @@
+#conexíon atlas
+#spring.data.mongodb.uri=mongodb+srv://yourusername:yourpassword@yourhost/yourdatabase?retryWrites=true&w=majority
+#conexión local
+spring.data.mongodb.uri=mongodb://localhost:27017/movies?retryWrites=true&w=majority
+spring.data.mongodb.database=movies
+
+
+
